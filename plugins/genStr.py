@@ -219,15 +219,15 @@ __📝 Language:__ [Python3](https://www.python.org/)
 
 __🧰 Framework:__ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
+__👨‍💻 Developer:__ [𝐇𝐅𝐌](https://t.me/HFM_NETWORK)
 
 __📢 Channel:__ [NS BOT UPDATES](https://t.me/Ns_bot_updates)
 
-__👥 Group:__ [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+__👥 Group:__ [Ns BOT SUPPORT](https://t.me/HFM_UPDATE)
 
-__🌐 Source Code:__ [Press Me 😋](https://github.com/Ns-AnoNymouS/string-session-generator-bot)
+__🌐 Source Code:__ [Press Me 😋](https://github.com/bsdk)
 
-__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ)
+__🚀 YouTube Channel:__ [HFM](https://youtube.com/channel/BAAPTOBAAPRAHEGA)
 """
 
     buttons = [[
